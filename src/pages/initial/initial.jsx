@@ -21,7 +21,7 @@ export default class Chat extends React.Component {
 
 Chat.propTypes = {
   bar: PropTypes.string,
-  setBar: PropTypes.object,
+  setBar: PropTypes.func,
 };
 
 Chat.defaultProps = {

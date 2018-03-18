@@ -57,6 +57,10 @@ module.exports = {
       },
     ],
   },
+  devServer: {
+    // Set up hot module replacement (only reload the component rather whole page).
+    hot: true,
+  },
   resolve: {
     modules: ['node_modules'],
     // Resolve import extension to .js or .jsx if it is missing.
