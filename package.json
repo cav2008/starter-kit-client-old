@@ -76,7 +76,7 @@
     "file-loader": "^1.1.11",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^22.4.2",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.14.1",
     "redux-devtools": "^3.4.1",
     "resolve-url-loader": "^2.3.0",
     "sass-loader": "^6.0.7",
